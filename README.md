@@ -1,4 +1,4 @@
-# Button Effect
+# Javascript
 
 A batch of different javascript apps for practice.
 
